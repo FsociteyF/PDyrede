@@ -10,22 +10,28 @@ install :
 
 Download requirements: 
 
+
 pip install pillow
+
 pip install qrcode[pil]
 
 تنزيل المتطلبات : 
 
+
 pip install qrcode[pil]
+
 pip install pillow
 
 run : 
 
 chmod +x * 
+
 python3 PDyrede.py 
 
 تشغيل : 
 
 chmod +x * 
+
 python3 PDyrede.py 
 
 
